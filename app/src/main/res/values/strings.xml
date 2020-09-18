@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LOGIN</string>
+
+    <string name="facebook_app_id">XXXX Enter your app ID XXXXX</string>
+    <string name="fb_login_protocol_scheme">XXXX Enter your SCHEME XXXXX</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">XXXX Enter your tw key XXXXX</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">XXXX Enter your tw secret XXXXX</string>
+
+</resources>
